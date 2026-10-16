@@ -1,0 +1,15 @@
+{
+  "id": "xueren-workbuddy-cleaner-pro",
+  "name": "雪人老师·WorkBuddy 清理专家[高级版]",
+  "version": "1.0.0",
+  "author": "雪人",
+  "platforms": [
+    "ima",
+    "WorkBuddy",
+    "QClaw"
+  ],
+  "description": "WorkBuddy 专用深度清理工具（高级版）：自动找出所有与 WorkBuddy 相关的目录（数据目录、工作区、程序安装目录、用户缓存等），按 安全/谨慎/不可删 三级分类，出报告并引导选档，确认后把垃圾移入系统回收站（通常可还原；超出回收站配额的部分会被系统直接永久删除，无法恢复）。当用户说\"帮我深度清理 WorkBuddy\"\"一键清理 WorkBuddy\"\"帮我删除 WorkBuddy 缓存\"\"清理并释放空间\"等希望工具代为删除的意图时触发。只看报告不代删请用基础版。",
+  "github": "https://github.com/JackieZheng/xueren-workbuddy-cleaner-pro",
+  "agent_created": true,
+  "updated_at": "2026-10-17"
+}
